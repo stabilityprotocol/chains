@@ -23408,7 +23408,7 @@
     "symbol": "FREE",
     "decimals": 18
   },
-  "rpc": ["https://gtn.stabilityprotocol.com"],
+  "rpc": ["https://rpc.stabilityprotocol.com"],
   "faucets": [],
   "infoURL": "https://stabilityprotocol.com"
 }, {
@@ -28153,7 +28153,7 @@
     "symbol": "FREE",
     "decimals": 18
   },
-  "rpc": ["https://free.testnet.stabilityprotocol.com"],
+  "rpc": ["https://rpc.testnet.stabilityprotocol.com"],
   "faucets": [],
   "infoURL": "https://stabilityprotocol.com"
 }, {

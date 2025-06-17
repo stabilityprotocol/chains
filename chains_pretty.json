@@ -38641,7 +38641,7 @@
   "name": "Global Trust Network",
   "chain": "GTN",
   "icon": "gtn",
-  "rpc": ["https://gtn.stabilityprotocol.com"],
+  "rpc": ["https://rpc.stabilityprotocol.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "FREE",
@@ -38654,7 +38654,7 @@
   "networkId": 101010,
   "explorers": [{
     "name": "blockscout",
-    "url": "https://stability.blockscout.com",
+    "url": "https://explorer.stabilityprotocol.com",
     "standard": "EIP3091"
   }],
   "redFlags": ["reusedChainId"]
@@ -46628,7 +46628,7 @@
   "name": "Stability Testnet",
   "chain": "stabilityTestnet",
   "icon": "stabilitytestnet",
-  "rpc": ["https://free.testnet.stabilityprotocol.com"],
+  "rpc": ["https://rpc.testnet.stabilityprotocol.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "FREE",
@@ -46642,7 +46642,7 @@
   "slip44": 1,
   "explorers": [{
     "name": "blockscout",
-    "url": "https://stability-testnet.blockscout.com",
+    "url": "https://explorer.testnet.stabilityprotocol.com",
     "standard": "EIP3091"
   }]
 }, {
